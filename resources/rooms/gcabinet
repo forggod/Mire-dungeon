@@ -1,0 +1,3 @@
+{:desc "Вы оказываетесь в крошечном кабинете."
+ :lock #{:keys}
+ :exits {:west :fsittingroom :east :hbadroom}}

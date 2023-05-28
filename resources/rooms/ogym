@@ -1,0 +1,2 @@
+{:desc "Вы оказываетесь в тренажерном зале."
+ :exits {:east :pdressingroom}}

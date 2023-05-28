@@ -1,0 +1,3 @@
+{:desc "Вы остаетесь перед длинной лестницей."
+ :lock #{:keys}
+ :exits {:north :battic :east :fsittingroom}}

@@ -1,0 +1,2 @@
+{:desc "Вы оказываетесь в столовой."
+ :exits {:south :npatio :east :jkitchen}}

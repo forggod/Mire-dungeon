@@ -1,0 +1,2 @@
+{:desc "Вы находитесь в длинном, слабо освещенном коридоре, который поворачивает на восток."
+ :exits {:north :fsittingroom :south :pdressingroom :west :jkitchen :east :lpromenade}}

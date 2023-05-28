@@ -1,0 +1,3 @@
+{:desc "Вы оказываетесь в круглой комнате с колонной посередине."
+ :exits {:north :myard :south :vworkshop :west :qgarden}
+ :items #{:keys}}

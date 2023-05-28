@@ -1,0 +1,2 @@
+{:desc "Ты на старом чердаке."
+ :exits {:west :aroof :south :estairs}}

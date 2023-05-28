@@ -1,0 +1,2 @@
+{:desc "Вы оказываетесь в подвале."
+ :exits {:north :qgarden :west :tcellar}}

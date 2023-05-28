@@ -1,0 +1,3 @@
+{:desc "Вы оказываетесь в комнате с круглым столом посередине."
+ :exits {:west :idiningroom :east :khallway}
+ :items #{:keys}}

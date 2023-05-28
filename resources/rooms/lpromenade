@@ -1,0 +1,3 @@
+{:desc "Набережная простирается перед вами."
+ :exits {:west :khallway :east :myard :south :qgarden}
+ :items #{:bunny :turtle}}

@@ -1,0 +1,2 @@
+{:desc "Вы оказываетесь в круглом саду."
+ :exits {:north :lpromenade :south :ubasement :east :rgarage}}
